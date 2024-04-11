@@ -1,5 +1,5 @@
 # Starsiege: Tribes Weapon Skins
-Weapon skins for the game Starsiege: Tribes
+Weapon skins created with various AI generation tools for the game Starsiege: Tribes
 
 ## How To Use
 Each folder in this repository represents a collection of skins. The folder names don't mean much other than a way to categorize the packs of skins.
