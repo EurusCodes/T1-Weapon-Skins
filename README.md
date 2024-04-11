@@ -2,7 +2,11 @@
 Weapon skins for the game Starsiege: Tribes
 
 ## How To Use
-TODO
+Each folder in this repository represents a collection of skins. The folder names don't mean much other than a way to categorize the packs of skins.
+To use the skins in Starsiege: Tribes
+1. Make a backup of your Tribes `..\base\entities` folder. If you don't do this, you may lose your original skins.
+2. Copy the contents of one of the repository folders into your Tribes `..\base\entities` folder.
+3. Load Tribes and you should see the new skins.
 
 ## Skins Provided
 | Description | Filename | Image Size | Notes |
