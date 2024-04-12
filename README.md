@@ -24,4 +24,5 @@ To use the skins in Starsiege: Tribes
 
 ## How to Make AI Generated Skins
 I've created the video below to demonstrate how to create the skins you see in this repository. It's very easy to do.
-https://youtu.be/5nG9BN_dep8
+
+<a href="https://youtu.be/5nG9BN_dep8" />Video -  Generating Weapon Skins Using Adobe Firefly</a>
