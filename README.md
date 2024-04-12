@@ -21,3 +21,7 @@ To use the skins in Starsiege: Tribes
 |Heavy Mortar|mortargun.png|1024 x 512||
 |Repair Gun|repairgun.png|1024 x 512|This skin is also used for the targeting laser|
 |Blaster Animation|rpulse00.png - rpulse09.png|16 x 32|Images for small animation on the Blaster|
+
+## How to Make AI Generated Skins
+I've created the video below to demonstrate how to create the skins you see in this repository. It's very easy to do.
+https://youtu.be/5nG9BN_dep8
